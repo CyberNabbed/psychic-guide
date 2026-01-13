@@ -4,7 +4,7 @@ OUTLOOK TICKET MONITOR
 What is this?
 -------------
 This is a visual alerting tool for agents. It monitors a specific Outlook folder 
-(like "Helpdesk Tickets") and displays a massive, flashing ASCII number on the 
+(like "Tickets") and displays a massive, flashing ASCII number on the 
 screen representing the count of unread emails.
 
 It is designed to be running on a secondary monitor to alert the team when 
